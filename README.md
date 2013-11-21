@@ -1,4 +1,4 @@
-d3plus_examples
+D3Plus Examples
 ===============
 
 D3plus is an extension to the D3 library that allows fast and easy creation of popular visualizations. Browse here 
